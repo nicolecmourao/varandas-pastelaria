@@ -1,0 +1,553 @@
+[
+  {
+    "id": "pastel-salgado-01",
+    "category": "Pastéis Salgados",
+    "name": "Carne",
+    "priceP": 6,
+    "priceG": 13,
+    "description": "Pastel salgado sabor carne."
+  },
+  {
+    "id": "pastel-salgado-02",
+    "category": "Pastéis Salgados",
+    "name": "Frango",
+    "priceP": 6,
+    "priceG": 13,
+    "description": "Pastel salgado sabor frango."
+  },
+  {
+    "id": "pastel-salgado-03",
+    "category": "Pastéis Salgados",
+    "name": "Queijo",
+    "priceP": 6,
+    "priceG": 13,
+    "description": "Pastel salgado sabor queijo."
+  },
+  {
+    "id": "pastel-salgado-04",
+    "category": "Pastéis Salgados",
+    "name": "Queijo/Presunto",
+    "priceP": 6,
+    "priceG": 13,
+    "description": "Pastel salgado de queijo com presunto."
+  },
+  {
+    "id": "pastel-salgado-05",
+    "category": "Pastéis Salgados",
+    "name": "Calabresa",
+    "priceP": 6,
+    "priceG": 13,
+    "description": "Pastel salgado sabor calabresa."
+  },
+  {
+    "id": "pastel-salgado-06",
+    "category": "Pastéis Salgados",
+    "name": "Queijo/Palmito",
+    "priceP": 7,
+    "priceG": 16,
+    "description": "Pastel salgado de queijo com palmito."
+  },
+  {
+    "id": "pastel-salgado-07",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Queijo",
+    "priceP": 7,
+    "priceG": 15,
+    "description": "Pastel salgado de carne com queijo."
+  },
+  {
+    "id": "pastel-salgado-08",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Palmito",
+    "priceP": 7,
+    "priceG": 16,
+    "description": "Pastel salgado de carne com palmito."
+  },
+  {
+    "id": "pastel-salgado-09",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Azeitona",
+    "priceP": 7,
+    "priceG": 16,
+    "description": "Pastel salgado de carne com azeitona."
+  },
+  {
+    "id": "pastel-salgado-10",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Catupiry",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel salgado de carne com catupiry."
+  },
+  {
+    "id": "pastel-salgado-11",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Cheddar",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel salgado de carne com cheddar."
+  },
+  {
+    "id": "pastel-salgado-12",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Bacon",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado de carne com bacon."
+  },
+  {
+    "id": "pastel-salgado-13",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Tomate",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de carne com tomate."
+  },
+  {
+    "id": "pastel-salgado-14",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Cebola",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de carne com cebola."
+  },
+  {
+    "id": "pastel-salgado-15",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Manjericão",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de carne com manjericão."
+  },
+  {
+    "id": "pastel-salgado-16",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Milho",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de carne com milho."
+  },
+  {
+    "id": "pastel-salgado-17",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Queijo",
+    "priceP": 7,
+    "priceG": 15,
+    "description": "Pastel salgado de frango com queijo."
+  },
+  {
+    "id": "pastel-salgado-18",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Catupiry",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel salgado de frango com catupiry."
+  },
+  {
+    "id": "pastel-salgado-19",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Azeitona",
+    "priceP": 7,
+    "priceG": 16,
+    "description": "Pastel salgado de frango com azeitona."
+  },
+  {
+    "id": "pastel-salgado-20",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Palmito",
+    "priceP": 7,
+    "priceG": 16,
+    "description": "Pastel salgado de frango com palmito."
+  },
+  {
+    "id": "pastel-salgado-21",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Manjericão",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel salgado de frango com manjericão."
+  },
+  {
+    "id": "pastel-salgado-22",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Cheddar",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel salgado de frango com cheddar."
+  },
+  {
+    "id": "pastel-salgado-23",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Bacon",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado de frango com bacon."
+  },
+  {
+    "id": "pastel-salgado-24",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Tomate",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de frango com tomate."
+  },
+  {
+    "id": "pastel-salgado-25",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Cebola",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de frango com cebola."
+  },
+  {
+    "id": "pastel-salgado-26",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Milho",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel salgado de frango com milho."
+  },
+  {
+    "id": "pastel-salgado-27",
+    "category": "Pastéis Salgados",
+    "name": "Pizza",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado sabor pizza."
+  },
+  {
+    "id": "pastel-salgado-28",
+    "category": "Pastéis Salgados",
+    "name": "Palmito",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado sabor palmito."
+  },
+  {
+    "id": "pastel-salgado-29",
+    "category": "Pastéis Salgados",
+    "name": "Camarão",
+    "priceP": 7,
+    "priceG": 18,
+    "description": "Pastel salgado sabor camarão."
+  },
+  {
+    "id": "pastel-salgado-30",
+    "category": "Pastéis Salgados",
+    "name": "Carne de sol",
+    "priceP": 7,
+    "priceG": 18,
+    "description": "Pastel salgado sabor carne de sol."
+  },
+  {
+    "id": "pastel-salgado-31",
+    "category": "Pastéis Salgados",
+    "name": "Cremoso",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado cremoso."
+  },
+  {
+    "id": "pastel-salgado-32",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Ovo",
+    "priceP": 7,
+    "priceG": 15,
+    "description": "Pastel salgado de carne com ovo."
+  },
+  {
+    "id": "pastel-salgado-33",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Ovo",
+    "priceP": 7,
+    "priceG": 15,
+    "description": "Pastel salgado de frango com ovo."
+  },
+  {
+    "id": "pastel-salgado-34",
+    "category": "Pastéis Salgados",
+    "name": "Carne/Ovo/Queijo",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado de carne, ovo e queijo."
+  },
+  {
+    "id": "pastel-salgado-35",
+    "category": "Pastéis Salgados",
+    "name": "Frango/Ovo/Queijo",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Pastel salgado de frango, ovo e queijo."
+  },
+  {
+    "id": "pastel-salgado-36",
+    "category": "Pastéis Salgados",
+    "name": "Marguerita",
+    "priceP": 7,
+    "priceG": 17,
+    "description": "Queijo, tomate, azeitona e manjericão."
+  },
+  {
+    "id": "pastel-salgado-37",
+    "category": "Pastéis Salgados",
+    "name": "Baiana",
+    "priceP": 7,
+    "priceG": 18,
+    "description": "Queijo, cebola, catupiry, azeitona, pimenta e calabresa."
+  },
+  {
+    "id": "pastel-salgado-38",
+    "category": "Pastéis Salgados",
+    "name": "Especial Varandas",
+    "priceG": 25,
+    "description": "Pastel grande com 6 sabores tradicionais à escolha do cliente."
+  },
+  {
+    "id": "pastel-doce-01",
+    "category": "Pastéis Doces",
+    "name": "Chocolate/Coco",
+    "priceP": 6,
+    "priceG": 15,
+    "description": "Pastel doce de chocolate com coco."
+  },
+  {
+    "id": "pastel-doce-02",
+    "category": "Pastéis Doces",
+    "name": "Chocolate/Queijo",
+    "priceP": 6.5,
+    "priceG": 16,
+    "description": "Pastel doce de chocolate com queijo."
+  },
+  {
+    "id": "pastel-doce-03",
+    "category": "Pastéis Doces",
+    "name": "Chocolate/Banana",
+    "priceP": 6.5,
+    "priceG": 16,
+    "description": "Pastel doce de chocolate com banana."
+  },
+  {
+    "id": "pastel-doce-04",
+    "category": "Pastéis Doces",
+    "name": "Brigadeiro",
+    "priceP": 6,
+    "priceG": 15,
+    "description": "Pastel doce sabor brigadeiro."
+  },
+  {
+    "id": "pastel-doce-05",
+    "category": "Pastéis Doces",
+    "name": "Churros",
+    "priceP": 6.5,
+    "priceG": 16,
+    "description": "Pastel doce sabor churros."
+  },
+  {
+    "id": "pastel-doce-06",
+    "category": "Pastéis Doces",
+    "name": "Doce de leite",
+    "priceP": 6,
+    "priceG": 15,
+    "description": "Pastel doce de doce de leite."
+  },
+  {
+    "id": "pastel-doce-07",
+    "category": "Pastéis Doces",
+    "name": "Romeu e Julieta",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel doce de queijo com goiabada."
+  },
+  {
+    "id": "pastel-doce-08",
+    "category": "Pastéis Doces",
+    "name": "Banana/Leite Condensado",
+    "priceP": 6.5,
+    "priceG": 14,
+    "description": "Pastel doce de banana com leite condensado."
+  },
+  {
+    "id": "pastel-doce-09",
+    "category": "Pastéis Doces",
+    "name": "Banana/Canela/Queijo",
+    "priceP": 6.5,
+    "priceG": 15,
+    "description": "Pastel doce de banana, canela e queijo."
+  },
+  {
+    "id": "pastel-doce-10",
+    "category": "Pastéis Doces",
+    "name": "Banana/Canela/Queijo/Leite Condensado",
+    "priceP": 7,
+    "priceG": 16,
+    "description": "Pastel doce de banana, canela, queijo e leite condensado."
+  },
+  {
+    "id": "saltenha-01",
+    "category": "Saltenhas",
+    "name": "Carne",
+    "priceP": 8,
+    "description": "Saltenha sabor carne."
+  },
+  {
+    "id": "saltenha-02",
+    "category": "Saltenhas",
+    "name": "Frango",
+    "priceP": 8,
+    "description": "Saltenha sabor frango."
+  },
+  {
+    "id": "bebida-01",
+    "category": "Bebidas",
+    "name": "Água",
+    "priceP": 2.5,
+    "description": "Água mineral."
+  },
+  {
+    "id": "bebida-02",
+    "category": "Bebidas",
+    "name": "Água com gás",
+    "priceP": 3,
+    "description": "Água mineral com gás."
+  },
+  {
+    "id": "bebida-03",
+    "category": "Bebidas",
+    "name": "Água tônica",
+    "priceP": 6,
+    "description": "Água tônica."
+  },
+  {
+    "id": "bebida-04",
+    "category": "Bebidas",
+    "name": "Refrigerante lata",
+    "priceP": 6,
+    "description": "Refrigerante em lata."
+  },
+  {
+    "id": "bebida-05",
+    "category": "Bebidas",
+    "name": "Refrigerante 600ml",
+    "priceP": 7,
+    "description": "Refrigerante 600ml."
+  },
+  {
+    "id": "bebida-06",
+    "category": "Bebidas",
+    "name": "Guaraná 1L",
+    "priceP": 8,
+    "description": "Guaraná 1 litro."
+  },
+  {
+    "id": "bebida-07",
+    "category": "Bebidas",
+    "name": "Dydyo 1L",
+    "priceP": 7,
+    "description": "Refrigerante Dydyo 1 litro."
+  },
+  {
+    "id": "bebida-08",
+    "category": "Bebidas",
+    "name": "Dydyo 2L",
+    "priceP": 9,
+    "description": "Refrigerante Dydyo 2 litros."
+  },
+  {
+    "id": "bebida-09",
+    "category": "Bebidas",
+    "name": "Fanta 1L",
+    "priceP": 10,
+    "description": "Fanta 1 litro."
+  },
+  {
+    "id": "bebida-10",
+    "category": "Bebidas",
+    "name": "Coca-Cola 1L",
+    "priceP": 10,
+    "description": "Coca-Cola 1 litro."
+  },
+  {
+    "id": "suco-01",
+    "category": "Sucos Naturais",
+    "name": "Maracujá 500ml",
+    "priceP": 9,
+    "description": "Suco natural de maracujá 500ml."
+  },
+  {
+    "id": "suco-02",
+    "category": "Sucos Naturais",
+    "name": "Cupuaçu 500ml",
+    "priceP": 8,
+    "description": "Suco natural de cupuaçu 500ml."
+  },
+  {
+    "id": "suco-03",
+    "category": "Sucos Naturais",
+    "name": "Acerola 500ml",
+    "priceP": 8,
+    "description": "Suco natural de acerola 500ml."
+  },
+  {
+    "id": "suco-04",
+    "category": "Sucos Naturais",
+    "name": "Abacaxi com hortelã 500ml",
+    "priceP": 8,
+    "description": "Suco natural de abacaxi com hortelã 500ml."
+  },
+  {
+    "id": "suco-05",
+    "category": "Sucos Naturais",
+    "name": "Cajá 500ml",
+    "priceP": 8,
+    "description": "Suco natural de cajá 500ml."
+  },
+  {
+    "id": "suco-06",
+    "category": "Sucos Naturais",
+    "name": "Graviola 500ml",
+    "priceP": 8,
+    "description": "Suco natural de graviola 500ml."
+  },
+  {
+    "id": "suco-07",
+    "category": "Sucos Naturais",
+    "name": "Goiaba 500ml",
+    "priceP": 8,
+    "description": "Suco natural de goiaba 500ml."
+  },
+  {
+    "id": "acrescimo-01",
+    "category": "Acréscimos",
+    "name": "Acréscimo de leite no suco",
+    "priceP": 2,
+    "description": "Adicional de leite para sucos naturais."
+  },
+  {
+    "id": "acrescimo-02",
+    "category": "Acréscimos",
+    "name": "Acréscimo no pastel pequeno: camarão, carne de sol, palmito, azeitona ou bacon",
+    "priceP": 3,
+    "description": "Acréscimo especial para pastel pequeno."
+  },
+  {
+    "id": "acrescimo-03",
+    "category": "Acréscimos",
+    "name": "Acréscimo no pastel pequeno: demais sabores",
+    "priceP": 2,
+    "description": "Acréscimo comum para pastel pequeno."
+  },
+  {
+    "id": "acrescimo-04",
+    "category": "Acréscimos",
+    "name": "Acréscimo no pastel grande: camarão, carne de sol, palmito, azeitona ou bacon",
+    "priceP": 4,
+    "description": "Acréscimo especial para pastel grande."
+  },
+  {
+    "id": "acrescimo-05",
+    "category": "Acréscimos",
+    "name": "Acréscimo no pastel grande: demais sabores",
+    "priceP": 3,
+    "description": "Acréscimo comum para pastel grande."
+  }
+]
